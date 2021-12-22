@@ -1,0 +1,43 @@
+body{
+  overflow-x: hidden;
+}
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -2;
+    
+  }
+
+  h1, h2 {
+    color: white;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    
+    
+    
+    
+    
+    
+  }
+  
+  h1 {
+    font-size: 6rem;
+    
+    
+   
+  }
+  
+  h2 { font-size: 3rem;
+        }
+
+.rest{
+          margin-top: 53vh;
+}
